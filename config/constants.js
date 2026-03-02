@@ -10,7 +10,7 @@ module.exports = {
   },
   autoIncrementInitial: {
     userID: 1100,
-    cardID: 5001,
-    certificateID: 10001,
+    cardID: 1001,
+    certificateID: 1001,
   },
 };
